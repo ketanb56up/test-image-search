@@ -1,0 +1,20 @@
+.header {
+  text-align: center;
+  font-size: 3em;
+  font-weight: bolder;
+  color: burlywood;
+}
+
+.search {
+  padding-left: 447px;
+  padding-top: 19px;
+}
+
+.showImageData {
+  padding-top: 37px;
+}
+
+.button {
+  padding-left: 572px;
+  padding-top: 44px;
+}
